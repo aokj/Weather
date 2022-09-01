@@ -1,3 +1,5 @@
+![Good Weather](http://aokj.top/picture/weather/icon.png)<br>
+<br>
 # 天气预报-动态天气背景-实时预报
 
 联系：[QQ769708798](https://qm.qq.com/cgi-bin/qm/qr?k=Xm01ZvrFL6zCm_VcSLUQK6S_nObG8uOd&jump_from=webapi)
@@ -10,6 +12,7 @@
 [二维码下载]  
 ![](http://aokj.top/picture/weather/qr.png)
 
+## APP介绍与使用
 15天天气预报、空气质量、生活建议、出行建议、灾害预警、分钟级降水、城市切换、城市搜索、常用城市、世界国家/地区的城市、壁纸切换、壁纸下载、地图天气、地图搜索定位、每日提醒、语音播报、语音搜索、快捷切换常用城市、可提供24小时降雨提醒、预报未来15日天气情况及未来96小时的天气情况。暴雨、冰雹等恶劣天气提前提醒，助您从容应对各类突发天气，更有手电筒助你黑暗的雨夜安全前行！
 
 【天气信息】

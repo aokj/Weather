@@ -1,4 +1,4 @@
-![Good Weather](http://aokj.top/picture/weather/icon.png)<br>
+![Good Weather](http://aokj.top/picture/weather/logo.png)<br>
 <br>
 # 天气预报-动态天气背景-实时预报
 

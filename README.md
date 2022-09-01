@@ -2,7 +2,7 @@
 <br>
 # 天气预报-动态天气背景-实时预报
 
-联系：[QQ769708798](https://qm.qq.com/cgi-bin/qm/qr?k=Xm01ZvrFL6zCm_VcSLUQK6S_nObG8uOd&jump_from=webapi)
+需要源代码的，请联系：[QQ769708798](https://qm.qq.com/cgi-bin/qm/qr?k=Xm01ZvrFL6zCm_VcSLUQK6S_nObG8uOd&jump_from=webapi)
 
 
 软件成品下载地址：

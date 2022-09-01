@@ -28,7 +28,6 @@
 
 
 ![](http://aokj.top/picture/weather/1.jpg)
-
 ![](http://aokj.top/picture/weather/2.jpg)
 ![](http://aokj.top/picture/weather/3.jpg)
 ![](http://aokj.top/picture/weather/4.jpg)

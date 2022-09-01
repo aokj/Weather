@@ -5,7 +5,7 @@
 
 软件成品下载地址：
 
-[天气预报URL下载](https://wwb.lanzouy.com/s/weather)
+[天气预报下载地址](https://wwb.lanzouy.com/s/weather)
 [二维码下载]
 ![](http://aokj.top/picture/weather/qr.png)
 
